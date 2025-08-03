@@ -20,7 +20,7 @@ Run the command `npm run test` from the root directory and it will run all the t
 
 These are mostly challenges that have to do with loops, conditionals, and string manipulation. I do not go over fundamentals like "what is a for loop". You should already know the basics of JavaScript.
 
-- [ ] 1. [Hello World Test Challenge](./01-basic-challenges-1/01-hello-world/readme.md)
+- [x] 1. [Hello World Test Challenge](./01-basic-challenges-1/01-hello-world/readme.md)
 - [ ] 2. [Get Sum Test Challenge](./01-basic-challenges-1/02-get-sum/readme.md)
 - [ ] 3. [Calculator](./01-basic-challenges-1/03-calculator/readme.md)
 - [ ] 4. [Count Occurrences](./01-basic-challenges-1/04-count-occurrences/readme.md)
