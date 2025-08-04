@@ -23,7 +23,7 @@ These are mostly challenges that have to do with loops, conditionals, and string
 - [x] 1. [Hello World Test Challenge](./01-basic-challenges-1/01-hello-world/readme.md)
 - [x] 2. [Get Sum Test Challenge](./01-basic-challenges-1/02-get-sum/readme.md)
 - [x] 3. [Calculator](./01-basic-challenges-1/03-calculator/readme.md)
-- [ ] 4. [Count Occurrences](./01-basic-challenges-1/04-count-occurrences/readme.md)
+- [x] 4. [Count Occurrences](./01-basic-challenges-1/04-count-occurrences/readme.md)
 - [ ] 5. [Find Max Number](./01-basic-challenges-1/05-find-max-number/readme.md)
 - [ ] 6. [Title Case](./01-basic-challenges-1/06-title-case/readme.md)
 - [ ] 7. [Reverse String](./01-basic-challenges-1/07-reverse-string/readme.md)
