@@ -27,7 +27,7 @@ These are mostly challenges that have to do with loops, conditionals, and string
 - [x] 5. [Find Max Number](./01-basic-challenges-1/05-find-max-number/readme.md)
 - [x] 6. [Title Case](./01-basic-challenges-1/06-title-case/readme.md)
 - [x] 7. [Reverse String](./01-basic-challenges-1/07-reverse-string/readme.md)
-- [ ] 8. [Palindrome](./01-basic-challenges-1/08-palindrome/readme.md)
+- [x] 8. [Palindrome](./01-basic-challenges-1/08-palindrome/readme.md)
 - [ ] 9. [Count Vowels](./01-basic-challenges-1/09-count-vowels/readme.md)
 - [ ] 10. [Remove Duplicates](./01-basic-challenges-1/10-remove-duplicates/readme.md)
 
