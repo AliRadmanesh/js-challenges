@@ -36,7 +36,7 @@ These are mostly challenges that have to do with loops, conditionals, and string
 These are more challenges that have to do with iteration. They are slightly harder than the first set of challenges.
 
 - [x] 1. [FizzBuzz Array](./02-basic-challenges-2/01-fizzbuzz-array/readme.md)
-- [ ] 2. [Array Intersection](./02-basic-challenges-2/02-array-intersection/readme.md)
+- [x] 2. [Array Intersection](./02-basic-challenges-2/02-array-intersection/readme.md)
 - [ ] 3. [Display Likes](./02-basic-challenges-2/03-display-likes/readme.md)
 - [ ] 4. [Find Missing Number](./02-basic-challenges-2/04-find-missing-number/readme.md)
 - [ ] 5. [Find Missing Letter](./02-basic-challenges-2/05-find-missing-letter/readme.md)
