@@ -38,7 +38,7 @@ These are more challenges that have to do with iteration. They are slightly hard
 - [x] 1. [FizzBuzz Array](./02-basic-challenges-2/01-fizzbuzz-array/readme.md)
 - [x] 2. [Array Intersection](./02-basic-challenges-2/02-array-intersection/readme.md)
 - [x] 3. [Display Likes](./02-basic-challenges-2/03-display-likes/readme.md)
-- [ ] 4. [Find Missing Number](./02-basic-challenges-2/04-find-missing-number/readme.md)
+- [x] 4. [Find Missing Number](./02-basic-challenges-2/04-find-missing-number/readme.md)
 - [ ] 5. [Find Missing Letter](./02-basic-challenges-2/05-find-missing-letter/readme.md)
 - [ ] 6. [Are All Characters Unique](./02-basic-challenges-2/06-are-all-chars-unique/readme.md)
 - [ ] 7. [First Non-Repeating Character](./02-basic-challenges-2/07-first-non-repeating/readme.md)
