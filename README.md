@@ -41,7 +41,7 @@ These are more challenges that have to do with iteration. They are slightly hard
 - [x] 4. [Find Missing Number](./02-basic-challenges-2/04-find-missing-number/readme.md)
 - [x] 5. [Find Missing Letter](./02-basic-challenges-2/05-find-missing-letter/readme.md)
 - [x] 6. [Are All Characters Unique](./02-basic-challenges-2/06-are-all-chars-unique/readme.md)
-- [ ] 7. [First Non-Repeating Character](./02-basic-challenges-2/07-first-non-repeating/readme.md)
+- [x] 7. [First Non-Repeating Character](./02-basic-challenges-2/07-first-non-repeating/readme.md)
 - [ ] 8. [Dice Game Simulation](./02-basic-challenges-2/08-dice-game/readme.md)
 - [ ] 9. [Format Phone Number](./02-basic-challenges-2/09-format-phone-number/readme.md)
 - [ ] 10. [Validate Email](./02-basic-challenges-2/10-validate-email/readme.md)
