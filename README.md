@@ -43,7 +43,7 @@ These are more challenges that have to do with iteration. They are slightly hard
 - [x] 6. [Are All Characters Unique](./02-basic-challenges-2/06-are-all-chars-unique/readme.md)
 - [x] 7. [First Non-Repeating Character](./02-basic-challenges-2/07-first-non-repeating/readme.md)
 - [x] 8. [Dice Game Simulation](./02-basic-challenges-2/08-dice-game/readme.md)
-- [ ] 9. [Format Phone Number](./02-basic-challenges-2/09-format-phone-number/readme.md)
+- [x] 9. [Format Phone Number](./02-basic-challenges-2/09-format-phone-number/readme.md)
 - [ ] 10. [Validate Email](./02-basic-challenges-2/10-validate-email/readme.md)
 
 #### 03. High Order Array Methods
