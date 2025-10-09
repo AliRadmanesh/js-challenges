@@ -50,7 +50,7 @@ These are more challenges that have to do with iteration. They are slightly hard
 
 The next set of challenges/lessons will have to do with high order array methods such as `map`, `filter`, `reduce`, `sort`, etc. Even though most of these can be done with a for loop, I want you to practice using these methods.
 
-- [ ] 1. [Simple Examples](./03-high-order-array-methods/01-simple-examples/readme.md)
+- [x] 1. [Simple Examples](./03-high-order-array-methods/01-simple-examples/readme.md)
 - [ ] 2. [Sum Of Even Squares](./03-high-order-array-methods/02-sum-of-even-squares/readme.md)
 - [ ] 3. [Calculate Total Sales](./03-high-order-array-methods/03-calculate-total-sales/readme.md)
 - [ ] 4. [Highest Scoring Word](./03-high-order-array-methods/04-highest-scoring-word/readme.md)
