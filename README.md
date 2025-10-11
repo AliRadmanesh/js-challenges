@@ -53,7 +53,7 @@ The next set of challenges/lessons will have to do with high order array methods
 - [x] 1. [Simple Examples](./03-high-order-array-methods/01-simple-examples/readme.md)
 - [x] 2. [Sum Of Even Squares](./03-high-order-array-methods/02-sum-of-even-squares/readme.md)
 - [x] 3. [Calculate Total Sales](./03-high-order-array-methods/03-calculate-total-sales/readme.md)
-- [ ] 4. [Highest Scoring Word](./03-high-order-array-methods/04-highest-scoring-word/readme.md)
+- [x] 4. [Highest Scoring Word](./03-high-order-array-methods/04-highest-scoring-word/readme.md)
 - [ ] 5. [Valid Anagrams](./03-high-order-array-methods/05-valid-anagrams/readme.md)
 - [ ] 6. [HashTag Generator](./03-high-order-array-methods/06-hashtag-generator/readme.md)
 - [ ] 7. [Valid IPv4 Address](./03-high-order-array-methods/07-valid-ipv4/readme.md)
