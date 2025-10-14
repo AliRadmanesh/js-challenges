@@ -55,7 +55,7 @@ The next set of challenges/lessons will have to do with high order array methods
 - [x] 3. [Calculate Total Sales](./03-high-order-array-methods/03-calculate-total-sales/readme.md)
 - [x] 4. [Highest Scoring Word](./03-high-order-array-methods/04-highest-scoring-word/readme.md)
 - [x] 5. [Valid Anagrams](./03-high-order-array-methods/05-valid-anagrams/readme.md)
-- [ ] 6. [HashTag Generator](./03-high-order-array-methods/06-hashtag-generator/readme.md)
+- [x] 6. [HashTag Generator](./03-high-order-array-methods/06-hashtag-generator/readme.md)
 - [ ] 7. [Valid IPv4 Address](./03-high-order-array-methods/07-valid-ipv4/readme.md)
 - [ ] 8. [Analyze Car Milage](./03-high-order-array-methods/08-analyze-car-milage/readme.md)
 - [ ] 9. [Password Validator](./03-high-order-array-methods/09-password-validator/readme.md)
