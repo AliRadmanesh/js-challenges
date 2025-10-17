@@ -58,7 +58,7 @@ The next set of challenges/lessons will have to do with high order array methods
 - [x] 6. [HashTag Generator](./03-high-order-array-methods/06-hashtag-generator/readme.md)
 - [x] 7. [Valid IPv4 Address](./03-high-order-array-methods/07-valid-ipv4/readme.md)
 - [x] 8. [Analyze Car Milage](./03-high-order-array-methods/08-analyze-car-milage/readme.md)
-- [ ] 9. [Password Validator](./03-high-order-array-methods/09-password-validator/readme.md)
+- [x] 9. [Password Validator](./03-high-order-array-methods/09-password-validator/readme.md)
 - [ ] 10. [Find Missing Letter Refactor](./03-high-order-array-methods/10-find-missing-letter-refactor/readme.md)
 
 #### 04. Recursion
