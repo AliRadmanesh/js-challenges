@@ -66,7 +66,7 @@ The next set of challenges/lessons will have to do with high order array methods
 The next batch of challenges/lessons will have to do with recursion. We will first talk about what recursion is and then we can look at some challenges.
 
 - [x] 1. [Recursion Intro (Count Down)](./04-recursion/01-count-down/readme.md)
-- [ ] 2. [Unwinding (Sum Up To)](./04-recursion/02-unwinding/readme.md)
+- [x] 2. [Unwinding (Sum Up To)](./04-recursion/02-unwinding/readme.md)
 - [ ] 3. [Reverse String Recursion](./04-recursion/03-reverse-string-recursion/readme.md)
 - [ ] 4. [Fibonacci Sequence](./04-recursion/04-fibonacci-sequence/readme.md)
 - [ ] 5. [Factorial](./04-recursion/05-factorial/readme.md)
