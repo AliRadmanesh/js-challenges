@@ -68,7 +68,7 @@ The next batch of challenges/lessons will have to do with recursion. We will fir
 - [x] 1. [Recursion Intro (Count Down)](./04-recursion/01-count-down/readme.md)
 - [x] 2. [Unwinding (Sum Up To)](./04-recursion/02-unwinding/readme.md)
 - [x] 3. [Reverse String Recursion](./04-recursion/03-reverse-string-recursion/readme.md)
-- [ ] 4. [Fibonacci Sequence](./04-recursion/04-fibonacci-sequence/readme.md)
+- [x] 4. [Fibonacci Sequence](./04-recursion/04-fibonacci-sequence/readme.md)
 - [ ] 5. [Factorial](./04-recursion/05-factorial/readme.md)
 - [ ] 6. [Power](./04-recursion/06-power/readme.md)
 - [ ] 7. [Array Sum](./04-recursion/07-array-sum/readme.md)
