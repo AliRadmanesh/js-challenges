@@ -72,7 +72,7 @@ The next batch of challenges/lessons will have to do with recursion. We will fir
 - [x] 5. [Factorial](./04-recursion/05-factorial/readme.md)
 - [x] 7. [Array Sum](./04-recursion/07-array-sum/readme.md)
 - [x] 8. [Number Range](./04-recursion/08-number-range/readme.md)
-- [ ] 9. [Flatten Array](./04-recursion/09-flatten-array/readme.md)
+- [x] 9. [Flatten Array](./04-recursion/09-flatten-array/readme.md)
 - [ ] 10. [Permutations](./04-recursion/10-permutations/readme.md)
 
 #### 05. Complexity
